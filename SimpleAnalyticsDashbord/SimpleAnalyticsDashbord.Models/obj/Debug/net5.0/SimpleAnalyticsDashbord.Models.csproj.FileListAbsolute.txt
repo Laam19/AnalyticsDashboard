@@ -1,0 +1,11 @@
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\bin\Debug\net5.0\SimpleAnalyticsDashbord.Models.deps.json
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\bin\Debug\net5.0\SimpleAnalyticsDashbord.Models.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\bin\Debug\net5.0\ref\SimpleAnalyticsDashbord.Models.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\bin\Debug\net5.0\SimpleAnalyticsDashbord.Models.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\net5.0\SimpleAnalyticsDashbord.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\net5.0\SimpleAnalyticsDashbord.Models.AssemblyInfoInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\net5.0\SimpleAnalyticsDashbord.Models.AssemblyInfo.cs
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\net5.0\SimpleAnalyticsDashbord.Models.csproj.CoreCompileInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\net5.0\SimpleAnalyticsDashbord.Models.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\net5.0\ref\SimpleAnalyticsDashbord.Models.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\net5.0\SimpleAnalyticsDashbord.Models.pdb

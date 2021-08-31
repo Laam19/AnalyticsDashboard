@@ -1,0 +1,17 @@
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.deps.json
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\net5.0\ref\SimpleAnalyticsDashbord.Controllers.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\net5.0\SimpleAnalyticsDashbord.Models.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\net5.0\SimpleAnalyticsDashbord.Services.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\net5.0\SimpleAnalyticsDashbord.Models.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\net5.0\SimpleAnalyticsDashbord.Services.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.csprojAssemblyReference.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.AssemblyInfoInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.AssemblyInfo.cs
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.csproj.CopyComplete
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\net5.0\ref\SimpleAnalyticsDashbord.Controllers.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\net5.0\SimpleAnalyticsDashbord.Controllers.pdb

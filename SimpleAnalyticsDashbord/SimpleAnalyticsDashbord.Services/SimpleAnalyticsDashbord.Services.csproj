@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ChoETL" Version="1.2.1.22" />
+    <PackageReference Include="ChoETL.JSON" Version="1.2.1.22" />
+    <PackageReference Include="EPPlus" Version="5.7.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="5.0.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.13.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleAnalyticsDashbord.Models\SimpleAnalyticsDashbord.Models.csproj" />
+  </ItemGroup>
+
+</Project>

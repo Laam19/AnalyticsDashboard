@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SimpleAnalyticsDashbord.Controllers\SimpleAnalyticsDashbord.Controllers.csproj" />
+    <ProjectReference Include="..\SimpleAnalyticsDashbord.Models\SimpleAnalyticsDashbord.Models.csproj" />
+    <ProjectReference Include="..\SimpleAnalyticsDashbord.Services\SimpleAnalyticsDashbord.Services.csproj" />
+  </ItemGroup>
+
+</Project>

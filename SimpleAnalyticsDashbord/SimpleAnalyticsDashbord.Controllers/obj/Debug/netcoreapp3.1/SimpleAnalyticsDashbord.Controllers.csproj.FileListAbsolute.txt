@@ -1,0 +1,14 @@
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Services.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.csprojAssemblyReference.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.AssemblyInfoInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.AssemblyInfo.cs
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.deps.json
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Services.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.csproj.CopyComplete
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Controllers\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Controllers.pdb

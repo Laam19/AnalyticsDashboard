@@ -1,0 +1,9 @@
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.deps.json
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\bin\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.csprojAssemblyReference.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.AssemblyInfoInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.AssemblyInfo.cs
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.csproj.CoreCompileInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Models\obj\Debug\netcoreapp3.1\SimpleAnalyticsDashbord.Models.pdb

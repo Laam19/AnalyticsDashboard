@@ -1,0 +1,15 @@
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\bin\Debug\net5.0\SimpleAnalyticsDashbord.Services.deps.json
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\bin\Debug\net5.0\SimpleAnalyticsDashbord.Services.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\bin\Debug\net5.0\ref\SimpleAnalyticsDashbord.Services.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\bin\Debug\net5.0\SimpleAnalyticsDashbord.Services.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\bin\Debug\net5.0\SimpleAnalyticsDashbord.Models.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\bin\Debug\net5.0\SimpleAnalyticsDashbord.Models.pdb
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\obj\Debug\net5.0\SimpleAnalyticsDashbord.Services.csprojAssemblyReference.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\obj\Debug\net5.0\SimpleAnalyticsDashbord.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\obj\Debug\net5.0\SimpleAnalyticsDashbord.Services.AssemblyInfoInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\obj\Debug\net5.0\SimpleAnalyticsDashbord.Services.AssemblyInfo.cs
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\obj\Debug\net5.0\SimpleAnalyticsDashbord.Services.csproj.CoreCompileInputs.cache
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\obj\Debug\net5.0\SimpleAnalyticsDashbord.Services.csproj.CopyComplete
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\obj\Debug\net5.0\SimpleAnalyticsDashbord.Services.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\obj\Debug\net5.0\ref\SimpleAnalyticsDashbord.Services.dll
+C:\Users\BS383\source\repos\SimpleAnalyticsDashbord\SimpleAnalyticsDashbord.Services\obj\Debug\net5.0\SimpleAnalyticsDashbord.Services.pdb

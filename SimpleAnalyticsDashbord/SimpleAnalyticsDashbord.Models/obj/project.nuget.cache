@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jcrwJqVQyYZ+jnyL8lM2+0jgitifiGm8kuy9YomPzvIDHiD8zsA1dls3hdFfCP7vPfw4dV0QHHGyqt31tLrCcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BS383\\source\\repos\\SimpleAnalyticsDashbord\\SimpleAnalyticsDashbord.Models\\SimpleAnalyticsDashbord.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BS383\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
+    "C:\\Users\\BS383\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
